@@ -1,0 +1,14 @@
+{
+    "name": "geobot-kills",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "cd src && node index.js"
+    },
+    "author": "Antonio32A",
+    "license": "MIT",
+    "dependencies": {
+        "mineflayer": "^3.6.0",
+        "node-fetch": "^2.6.1"
+    }
+}
